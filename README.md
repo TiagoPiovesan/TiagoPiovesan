@@ -8,12 +8,12 @@
 
 ---
 
-### 💼 Experiência | Experience
+### Experiência | Experience
 
-- 🚀 **15+ anos com software** | 15+ years in software — desenvolvimento de software ponta a ponta | end-to-end software development
-- 👥 **5+ anos como Tech Lead** | 5+ years as Tech Lead — liderança técnica, gestão de pessoas e projetos | technical leadership, people and project management
-- 📱 **Mobile de alto impacto** | High-impact mobile — centenas de apps, milhares de usuários | hundreds of apps, thousands of users
-- 🛒 **Marketplaces & E-commerce** — experiência sólida em produtos de comércio digital | strong experience in digital commerce products
+- **15+ anos com software** | 15+ years in software — desenvolvimento de software ponta a ponta | end-to-end software development
+- **5+ anos como Tech Lead** | 5+ years as Tech Lead — liderança técnica, gestão de pessoas e projetos | technical leadership, people and project management
+- **Mobile de alto impacto** | High-impact mobile — centenas de apps, milhares de usuários | hundreds of apps, thousands of users
+- **Marketplaces & E-commerce** — experiência sólida em produtos de comércio digital | strong experience in digital commerce products
 
 ---
 
