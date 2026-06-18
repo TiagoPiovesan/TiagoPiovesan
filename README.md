@@ -1,7 +1,6 @@
 # Olá, eu sou o Tiago 👋 | Hi, I'm Tiago
 
-**Tech Lead & Desenvolvedor de Software · Backend Python/Django & Frontend React/TypeScript** · [Mercafacil](https://github.com/TiagoPiovesan)
-Florianópolis, SC 🇧🇷
+**Tech Lead & Desenvolvedor de Software · Backend Python/Django & Frontend React/TypeScript** ·
 
 > 🇧🇷 Mais de 15 anos trabalhando com software e desenvolvimento, sendo 5+ como Tech Lead liderando times, gerenciando projetos e pessoas. Atuei em projetos mobile de alto impacto — centenas de apps com milhares de usuários — e tenho ampla experiência em marketplaces e e-commerce. Construo aplicações web e mobile do backend ao frontend, com foco em código limpo, infraestrutura bem configurada e produtos que entregam valor de verdade.
 >
